@@ -1,5 +1,5 @@
 microservice:
-  payment-service:
+  debit-service:
     endpoints:
       endpoint:
         uri: http://debit-service/debit
