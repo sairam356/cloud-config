@@ -2,4 +2,4 @@ microservice:
   debit-service:
     endpoints:
       endpoint:
-        uri: https://debit-service-git-kushalbajji-dev.apps.sandbox.x8i5.p1.openshiftapps.com/debit
+        uri: https://debit-service-test-kushalbajji-dev.apps.sandbox.x8i5.p1.openshiftapps.com/debit
