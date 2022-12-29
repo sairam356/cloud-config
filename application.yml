@@ -2,4 +2,4 @@ microservice:
   debit-service:
     endpoints:
       endpoint:
-        uri: http://debit-service:9494/debit
+        uri: http://debit-service/debit
